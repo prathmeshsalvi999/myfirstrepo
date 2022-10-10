@@ -1,2 +1,3 @@
 1) my first sync to the Github
 2) try to check the pull request from github to my laptop
+3) modifing this file from local repo
