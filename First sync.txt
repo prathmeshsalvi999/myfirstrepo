@@ -2,3 +2,4 @@
 2) try to check the pull request from github to my laptop
 3) modifing this file from local repo
 4) checking the different in local repo using git diff cmd
+6) added the containt from the local repo to test 
